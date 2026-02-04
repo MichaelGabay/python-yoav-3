@@ -1,5 +1,10 @@
-print("⭐⭐⭐")
+# birth_year=int(input("enter your birth year"))
+# current_year=2026
+# age=current_year-birth_year
 
-x=int(input("enter a number"))
+# print("your age is",age)
 
-print(x/2) 
+num1=int(input("enter first number"))
+num2=int(input("enter secound number"))
+
+print("the average is",(num1+num2)/2)
